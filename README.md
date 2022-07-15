@@ -16,3 +16,10 @@ He trabajado como desarrollador web con tecnologías PHP/MySql/Css en proyectos 
 <img src="https://img.shields.io/badge/Skill-React-blue"><br>
 <img src="https://img.shields.io/badge/Skill-HTML5-red"><br>
 <img src="https://img.shields.io/badge/Skill-CSS3-ff69b4"><br>
+
+##Redes sociales<br>
+https://twitter.com/Fernand33356719
+
+##Contacto<br>
+fcontreras.dev@gmail.com
+
