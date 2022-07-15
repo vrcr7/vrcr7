@@ -9,3 +9,10 @@ Vivo en Santiago de Chile
 Soy titulado en  la carrera de Ingeniería en Informática en el Instituto profesional Duoc UC y recientemente realicé un bootcamp de programacion Full Stack en la academia E-Camp 
 
 He trabajado como desarrollador web con tecnologías PHP/MySql/Css en proyectos para Sercotec, grupo Santillana y otros proyectos particulares. Después de un tiempo sin dedicarme directamente al desarrollo de software decidí retomar mi carrera ingresando a un Bootcamp de programacion para fortalecer mis conocimientos y experiencias en el desarrollo con Javascript y los frameworks modernos más utilizados (React,NodeJS).
+
+##Skils<br><br>
+<img src="https://img.shields.io/badge/Skill-Javascript-yellow"><br>
+<img src="https://img.shields.io/badge/Skill-NodeJS-green"><br>
+<img src="https://img.shields.io/badge/Skill-React-blue"><br>
+<img src="https://img.shields.io/badge/Skill-HTML5-red"><br>
+<img src="https://img.shields.io/badge/Skill-CSS3-ff69b4"><br>
